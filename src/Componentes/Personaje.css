@@ -1,0 +1,20 @@
+#info {
+    text-align: center;
+}
+
+img {
+    max-width: 7em;
+    max-height: 7em;
+}
+
+#bigbox {
+    background-color: lightgrey;
+}
+
+#medbox {
+    background-color: darkcyan;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
