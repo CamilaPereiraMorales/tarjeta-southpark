@@ -1,4 +1,8 @@
 Primer trabajo REACT
-imagen a replicar 
+Link imagen a replicar 
 
 (https://photos.google.com/share/AF1QipPMQHOdRMfo6IKWS31jh9BVPHyOBc3zqCwPL3yc5ZjEnsO5OtbCfOpYKORfJFaj3g/photo/AF1QipNIAoIvr577WhNq_V3x1RYMcmZpi6N4Hvv91ldl?key=OGdVZUJmVHd0RUFvdTJRNUFBUjVMSmlzRWI1Xzln)
+
+
+Link imagen replicada
+(https://photos.google.com/share/AF1QipPMQHOdRMfo6IKWS31jh9BVPHyOBc3zqCwPL3yc5ZjEnsO5OtbCfOpYKORfJFaj3g/photo/AF1QipOeqo7EIjDDHlNgYi5YoPATzSxwEbNcyBDzCpTX?key=OGdVZUJmVHd0RUFvdTJRNUFBUjVMSmlzRWI1Xzln)

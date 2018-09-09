@@ -14,8 +14,8 @@ return(
         <div id="medbox">
         {personajes.map(elemento => 
             <ul id="cuadroPersonaje">
-                <center><h4 id="Info"> Información </h4></center>
-                <h4> Tarjeta N°{counter++} : {elemento.nombre}</h4>
+                <center><h5 id="Info"> Información </h5></center>
+                <h5> Tarjeta N°{counter++} : {elemento.nombre}</h5>
                 <div>
                     <img id="avatar" src={elemento.foto} alt=""/>
                 </div>
