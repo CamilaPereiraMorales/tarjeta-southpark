@@ -11,22 +11,18 @@ class Personaje extends Component {
 let counter = 1;
 return(
     <div id="bigbox"><br/>
-        <div id="medbox">
+        <div>
         {personajes.map(elemento => 
-            <ul id="cuadroPersonaje">
+            <ul id="medbox">
                 <center><h5 id="Info"> Información </h5></center>
                 <h5> Tarjeta N°{counter++} : {elemento.nombre}</h5>
-                <div>
+                <div> 
                     <img id="avatar" src={elemento.foto} alt=""/>
                 </div>
             </ul>
-            
-                
-                )}
+        )}
         </div>
     </div>
-
-
         )
     }
 }
